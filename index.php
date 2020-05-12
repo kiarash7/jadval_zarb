@@ -19,9 +19,9 @@
     echo "</table>";
     ?>
     <?php
-//    $color = 'RED';
-//    echo 'My car is '. $color . '<br>';
-//    echo 'My hous is '. $color . '<br>';
-//    ?>
+    $color = 'RED';
+    echo 'My car is '. $color . '<br>';
+    echo 'My hous is '. $color . '<br>';
+    ?>
 </body>
 </html>
